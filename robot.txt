@@ -1,0 +1,3 @@
+User-agent: Unwantedbot
+User-agent: AdsBot-Unwanted
+Disallow: /
